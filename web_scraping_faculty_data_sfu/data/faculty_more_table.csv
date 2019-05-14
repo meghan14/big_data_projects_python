@@ -1,72 +1,63 @@
-,faculty_name,research_interests
-0,andrei bulatov,Constraint problems|Computational complexity|Combinatorics|Clone theory and universal algebra
-1,angel chang,
-2,angelica lim,
-3,anne lavergne,
-4,anoop sarkar,"My research is focused on machine learning algorithms applied to natural language processing: in the areas of statistical machine translation, statistical parsing and formal language theory"
-5,arrvindh shriraman,Improving energy efficiency of  software|Multicore memory systems|Hardware/Software Interface for improving programming|Synchronization
-6,binay bhattacharya,Design and analysis of geometric algorithms|Approximation algorithms|Resource allocation optimization|Vehicle routing|Transportation scheduling
-7,bobby chan,
-8,brad bart,
-9,brian fraser,
-10,brian funt,Digital Colour Imaging|Colour Constancy|Colour in Medicine|Colour Perception
-11,cynthia xie,
-12,david mitchell,Propositional satisfiability and finite domain constraint satisfaction results on the complexity of these problems aspects of design of practical algorithms for SAT and CSP application to formal verification and related tasks
-13,diana cukierman,
-14,eugene fiume,
-15,eugenia ternovska,Logic-based artificial intelligence|Knowledge representation|Efficient reasoning 
-16,fred popowich,"How computers can be used to process human language either to make it easier for human beings to interact with computers, or to make it easier for human beings to interact with each other.|Intelligent Systems and their Applications"
-17,ghassan hamarneh,Medical Image Analysis
-18,greg baker,
-19,greg mori,Computer Vision|Machine Learning|Video Analysis|Human Activity Recognition|Object Recognition
-20,harinder singh khangura,
-21,igor shinkar,
-22,james p. delgrande,"Knowledge representation and reasoning|
-|Belief change|
-|Reasoning about action and change|
-|Nonmonotonic reasoning|
-|Preference handling"
-23,janice regan,
-24,jian pei,"Data mining and database systems |Business intelligence, data warehousing and online analytic processing (OLAP) |Web search and information retrieval|Social media and social networks|Health and medical informatics"
-25,jiangchuan (jc) liu,"Internet architecture and protocols|Multimedia content, distribution, and processing|
-|Wireless mobile networking|
-|Cloud computing and big data networking|Online gaming and social networking"
-26,jiannan wang,
-27,john edgar,
-28,joseph g. peters,"Modelling and performance analysis of communication networks|Communication algorithms|Distributed computation
-|Multimedia networking|
-"
-29,kangkang yin,
-30,kay c. wiese,Bioinformatics and Computational Biology|Evolutionary Computation|Computational Intelligence and Machine Learning
-31,ke wang,Mining massive datasets|Mining biological data|Graph and network data|Data privacy
-32,keval vora,
-33,leonid chindelevitch,
-34,manolis savva,
-35,mark s. drew,"Image processing, colour, computer vision, computer graphics, multimedia, and visualization."
-36,martin ester,Social network analysis|Recommender systems|Opinion mining and information extraction|Biological network analysis|Next-gen sequencing
-37,maxwell libbrecht,
-38,mo chen,
-39,mohamed hefeeda,Multimedia networking over wired and wireless networks|Peer-to peer systems|Internet Protocols|Cloud and high-performance computing
-40,oliver schulte,Machine Learning|Statistical Learning for Relational Databases|Computational Game Theory|Computational Logic
-41,ouldooz baghban karimi,"Networks and Systems|Virtualization|Data, Security, and Privacy"
-42,parmit chilana,
-43,pavol hell,Algorithmic graph theory|Complexity of algorithms|Combinatorics of networks
-44,ping tan,
-45,qianping gu,Network communications|Parallel/distributed computing|Algorithms and computation|Machine learning|Computational biology
-46,ramesh krishnamurti,"Linear programming|Duality|Matching|
-|Designing Approximation algorithms based on linear programming"
-47,richard (hao) zhang,Geometry processing|Computer graphics|Shape modeling and analysis
-48,richard vaughan,Applying models of animal behavior to solve problems in robotics and other adaptive systems|Creating tools and techniques for designing and simulating populations of robots
-49,robert d. cameron,High performance parsing and text processing|SIMD and multicore parallelism|Programming language technology|Software systems|Open software technology
-50,ryan c.n. d'arcy,
-51,ryan shea,
-52,sheelagh carpendale,
-53,steven pearce,
-54,thomas c. shermer,Software engineering: tools and methods|Compiler construction|Program transformations|Theoretical computer networks|Computational geometry
-55,tianzheng wang,
-56,toby donaldson,
-57,uwe glässer,Big data intelligence|Situation analysis and decision support|Criminal network analysis|Cybersecurity
-58,valentine kabanets,Computational  complexity theory|Pseudorandomness and derandomization|Circuit lower bounds|Logic in complexity theory
-59,william (nick) sumner,
-60,yasutaka furukawa,
-61,ze-nian li,Computer vision|Multimedia|Artificial Intelligence
+,name,rank,area,profile_page,home_page,research_interests
+0,Greg Baker,UNIVERSITY LECTURER,Instruction,/computing/people/faculty/gregbaker.html,http://www.cs.sfu.ca/~ggbaker/,[]
+1,Andrei Bulatov,Professor,"Constraint Satisfaction, Complexity of Computation",/computing/people/faculty/andreibulatov.html,http://www.cs.sfu.ca/~abulatov/,"['Constraint problems', 'Computational complexity', 'Combinatorics', 'Clone theory and universal algebra']"
+2,Angel Chang,Assistant Professor,"Natural Language Processing, Artificial Intelligence, Computer Graphics, Computer Vision",/computing/people/faculty/angelchang.html,/computing/people/faculty/angelchang.html,"['natural language processing', '', 'grounded natural language understanding', '', 'linking natural language with visual and 3D representations', 'common sense reasoning for artificial intelligence']"
+3,SHEELAGH CARPENDALE,PROFESSOR,Information Visualization,/computing/people/faculty/sheelaghcarpendale.html,,"['Information Visualization,\xa0Interaction Design, Large Display Interaction, Visual Analytics, Personal Visualization, Human Computer Interaction, Interactive Technologies,\xa0Collaborative Interaction, Open Data, Data Empowerment']"
+4,LEONID CHINDELEVITCH,ASSISTANT PROFESSOR,Computational Biology,http://www.sfu.ca/computing/people/faculty/leonidchindelevitch.html,http://www.sfu.ca/~leonid,"['Bioinformatics', '', 'Computational Biology', '', 'Computational Epidemiology of Infectious Diseases']"
+5,Diana Cukierman,Senior Lecturer,Instruction,/computing/people/faculty/dianacukierman.html,,[]
+6,James P. Delgrande,Professor,Formal Aspects of Knowledge Representation,/computing/people/faculty/jamesdelgrande.html,http://www.cs.sfu.ca/~jim/,"['Knowledge representation and reasoning', '', 'Belief change', '', 'Reasoning about action and change', '', 'Nonmonotonic reasoning', '', 'Preference handling']"
+7,Toby Donaldson,Senior Lecturer,Instruction,/computing/people/faculty/tobydonaldson.html,,[]
+8,John Edgar,Senior Lecturer,Instruction,/computing/people/faculty/johnedgar.html,,[]
+9,Martin Ester,Professor,Databases and Data Mining,/computing/people/faculty/martinester.html,https://author.sfu.ca/cf#/content/sfu/computing/people/faculty/martinester/people.html,"['Social network analysis', 'Recommender systems', 'Opinion mining and information extraction', 'Biological network analysis', 'Next-gen sequencing']"
+10,Brian Fraser,Senior Lecturer,Instruction,/computing/people/faculty/brianfraser.html,http://www.cs.sfu.ca/~bfraser/,[]
+11,Yasutaka Furukawa,Assistant Professor,"Computer Vision, Deep Learning, Computer Graphics & Computational Photography",/computing/people/faculty/yasutakafurukawa1.html,http://www.cs.sfu.ca/~furukawa/,"['Computer Vision', 'Deep Learning', 'Computer Graphics', 'Computational Photography']"
+12,Uwe Glässer,Professor,"Software Technology, Distributed Communication Architectures",/computing/people/faculty/uweglasser.html,http://www.cs.sfu.ca/~glaesser/,"['Big data intelligence', 'Situation analysis and decision support', 'Criminal network analysis', 'Cybersecurity']"
+13,Mohamed Hefeeda,Professor,"Computer Networks, Multimedia Communications",/computing/people/faculty/mohamedhefeeda.html,http://www.cs.sfu.ca/~mhefeeda/,"['Multimedia networking over wired and wireless networks', 'Peer-to peer systems', 'Internet Protocols', 'Cloud and high-performance computing']"
+14,Harinder Singh Khangura,Senior Lecturer,Instruction,/computing/people/faculty/harindersinghkhangura.html,http://www.cs.sfu.ca/~hskhangu/,[]
+15,Anne Lavergne,Senior Lecturer,Instruction,/computing/people/faculty/annelavergne.html,http://www.cs.sfu.ca/~alavergn/,[]
+16,Maxwell Libbrecht,Assistant Professor,: Computational Biology and Machine Learning,/computing/people/faculty/maxlibbrecht11.html,http://www.cs.sfu.ca/~maxwl/,"['machine learning', '', 'probabilistic modeling', 'unsupervised learning', 'submodular optimization', '', 'genomics', 'gene regulation']"
+17,Jiangchuan (JC) Liu,Professor,Networking and multimedia communications,/computing/people/faculty/jiangchuanliu.html,http://www.cs.sfu.ca/~jcliu/,"['Internet architecture and protocols', 'Multimedia content, distribution, and processing', '', 'Wireless mobile networking', '', 'Cloud computing and big data networking', 'Online gaming and social networking']"
+18,David Mitchell,Associate Professor,"Constraint satisfaction, Algorithms for deduction and other reasoning tasks",/computing/people/faculty/davidmitchell.html,http://www.cs.sfu.ca/~mitchell/,['Propositional satisfiability and finite domain constraint satisfaction results on the complexity of these problems aspects of design of practical algorithms for SAT and CSP application to formal verification and related tasks']
+19,Jian Pei,Professor,Databases and Data Mining,/computing/people/faculty/jianpei.html,http://www.cs.sfu.ca/~jpei/,"['Data mining', 'Data warehousing and online analytic processing (OLAP)', 'Database systems', 'Bioinformatics', 'Data mining and database systems', 'Business intelligence, data warehousing and online analytic processing (OLAP)', 'Web search and information retrieval', 'Social media and social networks', 'Health and medical informatics']"
+20,Fred Popowich,Professor,|,/computing/people/faculty/fredpopowich.html,http://www.cs.sfu.ca/~popowich/,"['How computers can be used to process human language either to make it easier for human beings to interact with computers, or to make it easier for human beings to interact with each other.', 'Intelligent Systems and their Applications']"
+21,Arrvindh Shriraman,Associate Professor,"Systems architecture, hardware-software interactions, parallelism, sychronization and imporoving software reliability within specialized fields.",/computing/people/faculty/ArrvindhShriraman.html,http://www.cs.sfu.ca/~ashriram/,"['Improving energy efficiency of\xa0 software', 'Multicore memory systems', 'Hardware/Software Interface for improving programming', 'Synchronization']"
+22,William (Nick) Sumner,Assistant Professor,"Automated debugging, debugging tools, concurrency & parallelism, program analysis & transformation",/computing/people/faculty/NickSumner.html,http://www.cs.sfu.ca/~tamaras/,"['Automated debugging & debugging tools', 'Concurrency & parallelism', 'Program analysis & transformation']"
+23,Manolis Savva,Assistant Professor,"Computer Graphics, Computer Vision, Deep Learning",/computing/people/faculty/manolissavva.html,,"['human-centric 3D scene analysis', 'generative methods for 3D content creation', 'computer graphics for artificial intelligence']"
+24,IGOR SHINKAR,ASSISTANT Professor,Computational complexity,/computing/people/faculty/igorshinkar.html,https://www.cs.sfu.ca/~ishinkar/,"['Computational complexity', 'Property testing', 'Discrete mathematics', '', 'Probability theory']"
+25,Ping Tan,Associate Professor,"Computer Vision, Computer Graphics, Robotics",/computing/people/faculty/pingtan.html,http://www.cs.sfu.ca/~pingtan/,"['Computer Vision', 'Computer Graphics', 'Robotics']"
+26,Eugenia Ternovska,Associate Professor,"Logical aspects of AI, Knowledge Representation and Reasoning, Efficient Reasoning, Descriptive Complexity and Formal Verification.",/computing/people/faculty/EugeniaTernovska.html,http://www.cs.sfu.ca/~ter/,"['Logic-based artificial intelligence', 'Knowledge representation', 'Efficient reasoning']"
+27,Keval Vora,Assistant Professor,"Parallel & Distributed Computing, Irregular Big Data Processing and High Performance Computing",/computing/people/faculty/kevalvora.html,http://www.cs.sfu.ca/~keval/,"['Parallel & Distributed Computing', 'Irregular Big Data Processing', 'High Performance Computing']"
+28,Ke Wang,Professor,"Databases, Data Mining",/computing/people/faculty/kewang.html,http://www.cs.sfu.ca/~wangk/,"['Mining massive datasets', 'Mining biological data', 'Graph and network data', 'Data privacy']"
+29,Tianzheng Wang,Assistant Professor,"Database Systems, Parallel and Distributed Systems, Concurency, Embedded Systems",/computing/people/faculty/tianzhengwang.html,http://www.cs.sfu.ca/~tzwang/,"['Database systems', 'Transaction processing', 'Synchronization', 'Parallel and distributed computing', 'Embedded systems.']"
+30,Kay C. Wiese,Associate Professor,"Bioinformatics, Evolutionary Computation, Computational Intelligence, Visualization",/computing/people/faculty/kaywiese.html,http://www.cs.sfu.ca/~wiese/,"['Bioinformatics and Computational Biology', 'Evolutionary Computation', 'Computational Intelligence and Machine Learning']"
+31,KangKang Yin,Associate Professor,"Computer Animation, Computer Graphics, Humanoid Robotics, Machine Learning, Multimedia Analysis",/computing/people/faculty/kangkangyin.html,http://www.cs.sfu.ca/~kkyin/,"['computer animation', 'computer graphics', 'humanoid robotics', 'machine learning', 'multimedia analysis']"
+32,Brad Bart,SENIOR LECTURER,Instruction,/computing/people/faculty/bradleybart.html,http://www.cs.sfu.ca/~bbart/,[]
+33,Bobby Chan,LECTURER,Instruction,/computing/people/faculty/bobbychan1.html#main_content_title,/computing/people/faculty/bobbychan1.html#main_content_title,[]
+34,Binay Bhattacharya,Professor,"Computational Geometry, Pattern Recognition",/computing/people/faculty/binaybhattacharya.html,http://www.cs.sfu.ca/~binay/,"['Design and analysis of geometric algorithms', 'Approximation algorithms', 'Resource allocation optimization', 'Vehicle routing', 'Transportation scheduling']"
+35,Ouldooz Baghban Karimi,Lecturer,|  Home Page,/computing/people/faculty/ouldoozbaghbankarimi.html,,"['Networks and Systems', 'Virtualization', 'Data, Security, and Privacy']"
+36,Robert D. Cameron,Professor,Software Engineering Languages; Electronic Publication,/computing/people/faculty/robertdcameron.html,http://www.cs.sfu.ca/~cameron/,"['High performance parsing and text processing', 'SIMD and multicore parallelism', 'Programming language technology', 'Software systems', 'Open software technology']"
+37,Mo Chen,Assistant Professor,Robotics and Autonomous Systems,/computing/people/faculty/mochen.html,,"['Multi-robot systems', '', 'Safety-critical systems', '', 'Motion planning', '', 'Control theory', '', 'Computational methods']"
+38,Parmit Chilana,Assistant Professor,Human-Computer Interaction,http://www.sfu.ca/computing/people/faculty/parmitchilana.html,http://hci.cs.sfu.ca/,"['human-computer interaction', 'design of interactive systems', 'crowdsourcing/ social computing']"
+39,Ryan C.N. D'Arcy,Professor,Neuroscience,/computing/people/faculty/ryandarcy.html,,[]
+40,Mark S. Drew,Professor,Computer Vision,/computing/people/faculty/markdrew.html,http://www.cs.sfu.ca/~mark/,"['Image processing, colour, computer vision, computer graphics, multimedia, and visualization.']"
+41,Brian Funt,Professor,Computational Color Vision,/computing/people/faculty/brianfunt.html,http://www.cs.sfu.ca/~funt/,"['Digital Colour Imaging', 'Colour Constancy', 'Colour in Medicine', 'Colour Perception']"
+42,Qianping Gu,Professor,Network Communications and Algorithms,/computing/people/faculty/QianpingGu.html,http://www.cs.sfu.ca/~qgu/,"['Network communications', 'Parallel/distributed computing', 'Algorithms and computation', 'Machine learning', 'Computational biology']"
+43,Ghassan Hamarneh,Professor,"Medical Image Analysis (Computational/Artificial Intelligence, Computer Vision, Image Processing)",/computing/people/faculty/ghassanhamarneh.html,http://www.cs.sfu.ca/~hamarneh/,['Medical Image Analysis']
+44,Eugene Fiume,Professor,Computer Graphics,/computing/people/faculty/eugenefiume.html,,"['Computer graphics', '']"
+45,Pavol Hell,Professor,Computational Combinatorics,/computing/people/faculty/pavolhell.html,http://www.cs.sfu.ca/~pavol/,"['Algorithmic graph theory', 'Complexity of algorithms', 'Combinatorics of networks']"
+46,Valentine Kabanets,Associate Professor,"Pseudorandomness and Derandomization, Complexity of Computation, Automata and Logic",/computing/people/faculty/valentinekabanets.html,http://www.cs.sfu.ca/~kabanets/,"['Computational\xa0 complexity theory', 'Pseudorandomness and derandomization', 'Circuit lower bounds', 'Logic in complexity theory']"
+47,Ramesh Krishnamurti,Professor,Combinatorial Optimization and Approximation Algorithms,/computing/people/faculty/RameshKrishnamurti.html,http://www.cs.sfu.ca/~ramesh/,"['Linear programming', 'Duality', 'Matching', '', 'Designing Approximation algorithms based on linear programming']"
+48,Ze-Nian Li,Professor,"Computer Vision, Multimedia",/computing/people/faculty/ze-lianli.html,http://www.cs.sfu.ca/~li/,"['Computer vision', 'Multimedia', 'Artificial Intelligence']"
+49,Angelica Lim,Assistant Professor of Professional Practice,Human Robot Interaction,/computing/people/faculty/angelicalim.html,https://www.rosielab.ca/,"['Human Robot Interaction', 'Affective Computing', 'Multimodal Perception and Learning', 'Developmental Robotics']"
+50,Greg Mori,Professor,"Computer Vision, Machine Learning",/computing/people/faculty/gregmori.html,http://www.cs.sfu.ca/~mori/,"['Computer Vision', 'Machine Learning', 'Video Analysis', 'Human Activity Recognition', 'Object Recognition']"
+51,Steven Pearce,Lecturer,"Instruction, Computational Applied Mathematics",/computing/people/faculty/stevenpearce.html,http://www.cs.sfu.ca/~stevenp/,[]
+52,Joseph G. Peters,Professor,Network Communications,/computing/people/faculty/JosephPeters.html,http://www.cs.sfu.ca/~peters/,"['Modelling and performance analysis of communication networks', 'Communication algorithms', 'Distributed computation', 'Multimedia networking', '']"
+53,Janice Regan,Senior Lecturer,Instruction,/computing/people/faculty/janiceregan.html,http://www.cs.sfu.ca/~jregan/,[]
+54,Ryan Shea,Assistant Professor,Big Data,/computing/people/faculty/ryanshea.html,http://www.sfu.ca/~rws1,"['Cloud Computing', 'Cloud Gaming', 'Computer and Network Virtualization', 'Energy Efficient Computing', 'Big Data Systems']"
+55,Anoop Sarkar,Professor,Computational Linguistics; Machine Learning; Probabilistic Grammars and Formal language theory,/computing/people/faculty/anoopsarkar.html,http://www.cs.sfu.ca/~anoop/,"['My research is focused on machine learning algorithms applied to natural language processing: in the areas of statistical machine translation, statistical parsing and formal language theory']"
+56,Thomas C. Shermer,Professor,Computational Geometry and Computer Graphics,/computing/people/faculty/thomasshermer.html,http://www.cs.sfu.ca/~shermer/,"['Software engineering: tools and methods', 'Compiler construction', 'Program transformations', 'Theoretical computer networks', 'Computational geometry']"
+57,Oliver Schulte,Professor,"Machine Learning, Computational Logic, Computational Decision Theory",/computing/people/faculty/oliverschulte.html,http://www.cs.sfu.ca/~oschulte/,"['Machine Learning', 'Statistical Learning for Relational Databases', 'Computational Game Theory', 'Computational Logic']"
+58,Richard Vaughan,Professor,Robotics and Autonomous Systems,/computing/people/faculty/richardvaughan.html,http://www.cs.sfu.ca/~vaughan/,"['Applying models of animal behavior to solve problems in robotics and other adaptive systems', 'Creating tools and techniques for designing and simulating populations of robots']"
+59,Jiannan Wang,Assistant Professor,Database Systems and Big Data,/computing/people/faculty/jiannanwang.html,https://www.cs.sfu.ca/~jnwang/,"['Database Systems', 'Data Management', 'Data Cleaning', 'Crowdsourcing']"
+60,Cynthia Xie,Senior Lecturer,Mandarin Chinese Instruction for the Dual Degree Program,/computing/people/faculty/cynthiaxie.html,,[]
+61,Richard (Hao) Zhang,Professor,Computer Graphics; Geometric Modelling,/computing/people/faculty/richardzhang.html,http://www.cs.sfu.ca/~haoz/,"['Geometry processing', 'Computer graphics', 'Shape modeling and analysis']"

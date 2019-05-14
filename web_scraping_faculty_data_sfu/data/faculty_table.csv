@@ -1,7 +1,7 @@
-,name,designation,area,profile_page,home_page
+,name,rank,area,profile_page,home_page
 0,Greg Baker,UNIVERSITY LECTURER,Instruction,/computing/people/faculty/gregbaker.html,http://www.cs.sfu.ca/~ggbaker/
 1,Andrei Bulatov,Professor,"Constraint Satisfaction, Complexity of Computation",/computing/people/faculty/andreibulatov.html,http://www.cs.sfu.ca/~abulatov/
-2,Angel Chang,Assistant Professor,"Natural Language Processing, Artificial Intelligence, Computer Graphics, Computer Vision",http://www.cs.sfu.ca/people/Faculty/Profile/haoz.html,/computing/people/faculty/angelchang.html
+2,Angel Chang,Assistant Professor,"Natural Language Processing, Artificial Intelligence, Computer Graphics, Computer Vision",/computing/people/faculty/angelchang.html,/computing/people/faculty/angelchang.html
 3,SHEELAGH CARPENDALE,PROFESSOR,Information Visualization,/computing/people/faculty/sheelaghcarpendale.html,
 4,LEONID CHINDELEVITCH,ASSISTANT PROFESSOR,Computational Biology,http://www.sfu.ca/computing/people/faculty/leonidchindelevitch.html,http://www.sfu.ca/~leonid
 5,Diana Cukierman,Senior Lecturer,Instruction,/computing/people/faculty/dianacukierman.html,
@@ -21,7 +21,7 @@
 19,Jian Pei,Professor,Databases and Data Mining,/computing/people/faculty/jianpei.html,http://www.cs.sfu.ca/~jpei/
 20,Fred Popowich,Professor,|,/computing/people/faculty/fredpopowich.html,http://www.cs.sfu.ca/~popowich/
 21,Arrvindh Shriraman,Associate Professor,"Systems architecture, hardware-software interactions, parallelism, sychronization and imporoving software reliability within specialized fields.",/computing/people/faculty/ArrvindhShriraman.html,http://www.cs.sfu.ca/~ashriram/
-22,William (Nick) Sumner,Assistant Professor,"Automated debugging, debugging tools, concurrency & parallelism, program analysis & transformation",http://www.cs.sfu.ca/~wsumner/,http://www.cs.sfu.ca/~tamaras/
+22,William (Nick) Sumner,Assistant Professor,"Automated debugging, debugging tools, concurrency & parallelism, program analysis & transformation",/computing/people/faculty/NickSumner.html,http://www.cs.sfu.ca/~tamaras/
 23,Manolis Savva,Assistant Professor,"Computer Graphics, Computer Vision, Deep Learning",/computing/people/faculty/manolissavva.html,
 24,IGOR SHINKAR,ASSISTANT Professor,Computational complexity,/computing/people/faculty/igorshinkar.html,https://www.cs.sfu.ca/~ishinkar/
 25,Ping Tan,Associate Professor,"Computer Vision, Computer Graphics, Robotics",/computing/people/faculty/pingtan.html,http://www.cs.sfu.ca/~pingtan/
