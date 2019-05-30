@@ -1,0 +1,13 @@
+How to construct a training dataset?
+-----
+I think since the goal is to classify each instance as matching and non-matching, we have to use a manual approach (like crowdsourcing, using human mind)  to create the training dataset because using machines to do it may result in error which we cannot afford to have in the training dataset. 
+
+How to transform a pair of records into a feature vector?
+-----
+As studied earlier we can use the Jaccard method to calculate the similarity of the pair of records which can therefore be used as feature vector.
+
+
+How to construct a test dataset?
+-----
+We can split our training set into a ratio of 7:3 or 8:2 , that is, use 70% of the total data as training and 30% as test or 80% into training and 20% to test. This is the same dataset that will be created using manual approach referred in question 1. 
+ 
