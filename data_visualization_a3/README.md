@@ -1,0 +1,1 @@
+Link to assignment description : https://rawgit.com/sfu-db/bigdata-cmpt733/master/Assignments/A3/A3.html
