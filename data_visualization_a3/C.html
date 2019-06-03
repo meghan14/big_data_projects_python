@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>I Love Big Data</title>
+    <style>
+
+      text {
+        font-size: 3em;
+        stroke: black;
+        stroke-width: 1px;
+      }
+    </style>
+    <!-- <script src="https://d3js.org/d3.v3.min.js"></script> -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+<!--     <script src="https://d3js.org/d3.v5.min.js"></script>
+ -->
+
+  </head>
+  <body>
+
+    <script>
+      var data = ["I", " ", "L", "O", "V","E", " ", "B", "I", "G", " ", "D", "A", "T", "A"];
+      var posScale = d3.scaleLinear()
+        .domain([0, 14])
+        .range([20, 500]);
+
+      var colorScale = d3.scaleOrdinal(d3.schemeCategory10).domain([0, 14]);
+        
+      var svg = d3.select("body").append("svg");
+
+      svg.attr("width", 1000)
+        .attr("height", 200);
+		
+      function render(data) {
+		// Bind data
+       var texts = svg.selectAll("text").data(data);
+       console.log("Hello Debugger" , texts)
+	  
+		// Enter
+        texts.enter().append("text")
+		.text(function (d) { return d; });
+        
+ 
+		
+		//Update
+		texts.attr("text-anchor", "middle")
+		//.text(function (d) { return d; })
+		.attr("y", 100)
+        .attr("x", function (d,i) { return posScale(i); } )
+		.attr('fill', function (i) { return colorScale(i);});
+		console.log("after update" , texts);
+	
+		// Exit
+		texts.exit().remove();
+		
+		}
+		
+		//setTimeout( function (){ render(["I","K","U"]);}, 500);
+		//setTimeout( function (){ render(["P","K"]); }, 1000);
+		//setTimeout( function () { render(["I","K","U"]); }, 500);
+		//setTimeout( function () { render(["I","O","U","K"]); }, 500);
+		
+		function callsettimer( ipos, tme){
+		setTimeout (function () { render(data.slice(0,ipos)) ;},tme);
+		}
+		
+		total_size = data.length;
+		t = 0; 
+		delay = 500;
+		
+		for (var i=0; i<= total_size+1;i++){
+		t = t+delay;
+		callsettimer(i,t);
+		}
+		
+		for (var k=total_size; k>=0; k--){
+		t = t+delay;
+		callsettimer(k,t);
+		}
+
+    </script>
+
+
+  </body>
+</html>
