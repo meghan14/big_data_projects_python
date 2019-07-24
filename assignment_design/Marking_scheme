@@ -1,0 +1,27 @@
+MARKING SCHEME:
+
+TASK 1a (15 points): As a part of this task, the students are expected to do three things listed below. Each of these carry 5 points.
+            1. A.png : create a image of the graph with 100 random nodes. With higher number of nodes the image looks messy and processing takes time. 
+            2. Degree_centrality code: expected to write the code for computing degree centrality which is the total number of neighbors divided by N-1, where N is the total number of nodes. Although they can use some helper functions (like calculating neighbors using g.neighbors() and/or g.nodes()). Marks should be deducted for use of in-built (g.degree_centrality()) function provided in graph.  
+            3. B.png : create an image with top 10 nodes with highest degree centrality. 
+
+TASK 1b (5 points): This task expects students to find the total shortest paths passing through every node and add it as a separate column to the original dataframe. To make it simple, like before, the student is allowed to use any helper function (like networkx.all_pairs_shortest_path) to calculate the shorted paths from each node. (5 points)
+
+TASK 1c (10 points): This task expects the students to do two things:
+        1. Calculate the eighenvector centrality and add it to the dataframe. This time its allowed to use the inbuilt function for eighenvector calculation (Because it will be difficult to implement it from scratch). (2 points)
+        2. Plot a line graph showing a comparison between degree, node, betweenness and eighenvector centrality. For listing the observation part, please make sure that the correlation between these centrality measures are explained well. (3 points)
+
+
+PART 2:
+
+TASK 2a: For this task the students can choose any of the classification (or regression) models since the prediction class is binary. Since, this question is mainly to teach them cross validation, their score should majorly depend upon how well they perform cross validation on the dataset. Like suitable parameters provided for cross validation , whether they are able to split the train and test data.  
+
+TASK 2b:
+
+
+Task 3:
+    
+    q4) Focus should be made on listing points which prove why these measures are fair parameters for judging the credibility of users on a social media platform. Especially when you are given dataset in the form of graphical nodes and edges.
+
+
+FILE SUBMISSIONS: A.png, B.png & Assignment.ipynb (with the plots and codes) in a zipped file, through coursys. 
