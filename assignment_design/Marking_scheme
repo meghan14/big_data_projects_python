@@ -1,5 +1,6 @@
 MARKING SCHEME:
 
+PART 1:
 TASK 1a (15 points): As a part of this task, the students are expected to do three things listed below. Each of these carry 5 points.
             1. A.png : create a image of the graph with 100 random nodes. With higher number of nodes the image looks messy and processing takes time. 
             2. Degree_centrality code: expected to write the code for computing degree centrality which is the total number of neighbors divided by N-1, where N is the total number of nodes. Although they can use some helper functions (like calculating neighbors using g.neighbors() and/or g.nodes()). Marks should be deducted for use of in-built (g.degree_centrality()) function provided in graph.  
@@ -14,14 +15,17 @@ TASK 1c (10 points): This task expects the students to do two things:
 
 PART 2:
 
-TASK 2a: For this task the students can choose any of the classification (or regression) models since the prediction class is binary. Since, this question is mainly to teach them cross validation, their score should majorly depend upon how well they perform cross validation on the dataset. Like suitable parameters provided for cross validation , whether they are able to split the train and test data.  
+TASK 2a (5 points): This section aims to teach Model selection in Spark framework and use Pipelines to chain the preprocessing stages. For this task the students can choose one of the suitable classification models for initialization with their corresponding parameters.
 
-TASK 2b:
+TASK 2b: (10 points) Since, this question is mainly to teach cross validation, students' score should majorly depend upon how well they perform cross validation on the dataset. Marking should depend upon how well the model is tuned. Like the parameters selection and number of values used. 
 
 
-Task 3:
+Task 3(15 points, 5 each):
+    q1) Since its a binary classification problem, the student can choose one of the classification models with suitable parameters. Make sure the parameters are justified based on model selection. For example, if NaiveBayes is choosen as an ML method, we can tune "smoothing" parameter with different values like: [0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
     
-    q4) Focus should be made on listing points which prove why these measures are fair parameters for judging the credibility of users on a social media platform. Especially when you are given dataset in the form of graphical nodes and edges.
+    q2) Since cross validator algorithm chooses the best possible model, the performance is expected to increase (or stay the same) after fine-tuning the model given the parameter values selected are suited.  
+    
+    q3) Focus should be made on listing points which prove why these measures are fair parameters for judging the credibility of users on a social media platform. Especially when you are given dataset in the form of graphical nodes and edges.
 
 
-FILE SUBMISSIONS: A.png, B.png & Assignment.ipynb (with the plots and codes) in a zipped file, through coursys. 
+FILE SUBMISSIONS: A.png, B.png , answer.txt & Assignment.ipynb (with the plots and codes) in a zipped file, through coursys. 
