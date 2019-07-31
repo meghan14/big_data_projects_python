@@ -2,7 +2,7 @@ MARKING SCHEME:
 
 PART 1:
 TASK 1a (15 points): As a part of this task, the students are expected to do three things listed below. Each of these carry 5 points.
-            1. A.png : create a image of the graph with 100 random nodes. With higher number of nodes the image looks messy and processing takes time. 
+            1. A.png : create a image of the graph with 1000 random nodes. With higher number of nodes the image looks messy and processing takes time. 
             2. Degree_centrality code: expected to write the code for computing degree centrality which is the total number of neighbors divided by N-1, where N is the total number of nodes. Although they can use some helper functions (like calculating neighbors using g.neighbors() and/or g.nodes()). Marks should be deducted for use of in-built (g.degree_centrality()) function provided in graph.  
             3. B.png : create an image with top 10 nodes with highest degree centrality. 
 
@@ -17,7 +17,7 @@ PART 2:
 
 TASK 2a (5 points): This section aims to teach Model selection in Spark framework and use Pipelines to chain the preprocessing stages. For this task the students can choose one of the suitable classification models for initialization with their corresponding parameters.
 
-TASK 2b: (10 points) Since, this question is mainly to teach cross validation, students' score should majorly depend upon how well they perform cross validation on the dataset. Marking should depend upon how well the model is tuned. Like the parameters selection and number of values used. 
+TASK 2b: (10 points) Since, this question is mainly to teach cross validation, students' score should majorly depend upon cross validation code. Marking should depend upon how well the model is tuned. Like the parameters selection and number of values used. 
 
 
 Task 3(15 points, 5 each):
@@ -25,7 +25,8 @@ Task 3(15 points, 5 each):
     
     q2) Since cross validator algorithm chooses the best possible model, the performance is expected to increase (or stay the same) after fine-tuning the model given the parameter values selected are suitable.  
     
-    q3) Focus should be made on listing points which prove why these measures are fair parameters for judging the credibility of users on a social media platform. Especially when you are given dataset in the form of graphical nodes and edges.
+    q3) Given the type of dataset (with only nodes and edges), the centrality measures are interesting way of finding the important users in a network as they provide an analysis of how 'centrally located' the user in a network is in comparison to others. Adding further, eighenvector method is the best of all as it considers the neighborhood scores of a user and not just itself, which helps eliminate the non-important users who have less important connections.   
 
 
 FILE SUBMISSIONS: A.png, B.png , answer.txt & Assignment.ipynb (with the plots and codes) in a zipped file, through coursys. 
+https://www.lsu.edu/faculty/bratton/networks/closeness.ppt
