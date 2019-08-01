@@ -28,4 +28,4 @@ Task 3(15 points, 5 each):
     q3) Given the type of dataset (with only nodes and edges), the centrality measures are interesting way of finding the important users in a network as they provide an analysis of how 'centrally located' the user in a network is in comparison to others. Adding further, eighenvector method is the best of all as it considers the neighborhood scores of a user and not just itself, which helps eliminate the non-important users who have less important connections.   
 
 
-FILE SUBMISSIONS: A.png, B.png , answer.txt & Assignment.ipynb (with the plots and codes) in a zipped file, through coursys. 
+FILE SUBMISSIONS: A.png, B.png , answer.txt & assignment.ipynb (with the plots and codes) in a zipped file, through coursys. 
